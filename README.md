@@ -7,8 +7,8 @@ Hello, my name is **Nurrahman Rizky** you can call me **Rahman**. Here's my proj
 - [Development Monitoring And Controlling Coupled Tanks with PID](https://github.com/gitnurrahman/DOO2)
 
 <a href="https://github.com/gitnurrahman">
-  <img align="Top" src="https://github-readme-stats.vercel.app/api?username=gitnurrahman&show_icons=true" />
+  <img align="Left" src="https://github-readme-stats.vercel.app/api?username=Gitnurrahman&show_icons=true" />
 </a>
 <a href="https://github.com/gitnurrahman">
-  <img align="Bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitnurrahman&show_icons=true" />
+  <img align="Justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gitnurrahman&show_icons=true" />
 </a>
